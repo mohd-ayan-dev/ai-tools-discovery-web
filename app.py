@@ -298,7 +298,6 @@ def vote(tool_id):
         'voted': voted
     })
 
-# ** 2. REMOVE THIS BLOCK **
-# --- Run the App ---
-# if __name__ == "__main__":
-#     app.run(debug=True)
+# --- Run the App (local development) ---
+if __name__ == "__main__":
+    app.run(debug=True)
