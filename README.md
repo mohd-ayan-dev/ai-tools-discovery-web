@@ -13,8 +13,6 @@ A sleek, community-driven web application to discover, compare, and rank the lat
 Experience the platform directly in your browser:  
 **👉 [Launch Cogninest / AI Discovery](https://cogninest.onrender.com/)**
 
-> 💻 **Desktop Recommended:** Please note that this platform is currently optimized for laptop and desktop screens. Mobile responsiveness is actively being worked on, so for the absolute best experience, feel free to fire this up on your computer!
-> 
 > ⏳ **A quick heads-up on loading time:** This application is hosted on a free cloud instance. If the site hasn't been visited in a little while, it goes to "sleep" and may take about 50-60 seconds to wake up on your first click. Grab a quick sip of coffee while it loads—I promise the smooth UI is worth the wait! ✨
 
 ---
