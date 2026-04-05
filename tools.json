@@ -815,5 +815,810 @@
         ],
         "pricing": "Paid",
         "reviews": []
+    },
+    {
+        "id": 51,
+        "name": "Grok",
+        "description": "xAI's conversational AI with real-time access to X (formerly Twitter).",
+        "long_description": "Grok is an AI developed by Elon Musk's xAI. It is designed to answer questions with a bit of wit and has a rebellious streak. Its primary advantage is having real-time access to the world via the X platform, allowing it to discuss current events as they happen.",
+        "category": "Chatbot",
+        "upvotes": 0,
+        "url": "https://x.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/x.ai",
+        "ceo_team": [
+            "Elon Musk"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 52,
+        "name": "Cursor",
+        "description": "An AI-powered code editor built on top of VS Code.",
+        "long_description": "Cursor is a fork of VS Code that integrates AI deeply into the coding workflow. It can see your entire codebase, help you refactor, write new features, and fix bugs using models like GPT-4o and Claude 3.5 Sonnet.",
+        "category": "Code",
+        "upvotes": 0,
+        "url": "https://cursor.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/cursor.com",
+        "ceo_team": [
+            "Michael Truell",
+            "Anshul Amar"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 53,
+        "name": "Suno AI",
+        "description": "Generate full songs with vocals and instrumentation from text.",
+        "long_description": "Suno is a breakthrough generative AI that creates realistic songs, including lyrics, melodies, and vocals. Users can specify a genre and topic, and Suno produces a complete 2-minute track that sounds professionally produced.",
+        "category": "Audio",
+        "upvotes": 0,
+        "url": "https://suno.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/suno.com",
+        "ceo_team": [
+            "Mikey Shulman"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 54,
+        "name": "Adobe Premiere Pro (AI)",
+        "description": "Industry-standard video editing with AI-powered 'Generative Extend'.",
+        "long_description": "Adobe Premiere Pro has integrated Firefly AI to allow video editors to extend clips, remove objects, and add b-roll using text prompts. It also features 'Text-Based Editing' where you can edit video by deleting words in the transcript.",
+        "category": "Video",
+        "upvotes": 0,
+        "url": "https://www.adobe.com/products/premiere.html",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/adobe.com",
+        "ceo_team": [
+            "Shantanu Narayen"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 55,
+        "name": "Consensus",
+        "description": "AI search engine that finds answers in peer-reviewed research.",
+        "long_description": "Consensus is an academic search engine that uses AI to extract and summarize findings from scientific research. It helps users find evidence-based answers to questions across medicine, science, and social sciences.",
+        "category": "Search",
+        "upvotes": 0,
+        "url": "https://consensus.app/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/consensus.app",
+        "ceo_team": [
+            "Eric Olson"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 56,
+        "name": "Udio",
+        "description": "High-fidelity AI music generation focusing on artistic quality.",
+        "long_description": "Udio is a competitor to Suno, created by former Google DeepMind researchers. It allows users to create studio-quality music across any genre by simply describing the style and lyrics, known for its particularly clear vocal quality.",
+        "category": "Audio",
+        "upvotes": 0,
+        "url": "https://udio.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/udio.com",
+        "ceo_team": [
+            "David Ding"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 57,
+        "name": "Otter.ai",
+        "description": "AI meeting assistant that transcribes and summarizes calls.",
+        "long_description": "Otter.ai records audio, writes notes, captures action items, and generates summaries for meetings. It integrates with Zoom, Google Meet, and Microsoft Teams to provide real-time transcription and collaborative note-taking.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://otter.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/otter.ai",
+        "ceo_team": [
+            "Sam Liang"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 58,
+        "name": "Phind",
+        "description": "An AI search engine and answer engine specifically for developers.",
+        "long_description": "Phind is optimized for coding queries. It provides direct answers with code snippets and links to documentation, pulling from sources like StackOverflow and GitHub to help developers solve technical problems faster.",
+        "category": "Code",
+        "upvotes": 0,
+        "url": "https://phind.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/phind.com",
+        "ceo_team": [
+            "Michael Luk"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 59,
+        "name": "Humane",
+        "description": "AI-powered wearable 'Pin' and software platform.",
+        "long_description": "Humane is the creator of the AI Pin, a screenless wearable device that uses a laser link display and voice commands to interact with an AI operating system for messaging, translation, and information search.",
+        "category": "Hardware",
+        "upvotes": 0,
+        "url": "https://humane.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/humane.com",
+        "ceo_team": [
+            "Imran Chaudhri",
+            "Bethany Bongiorno"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 60,
+        "name": "Jasper Art",
+        "description": "AI image generator built for marketing and social media teams.",
+        "long_description": "Jasper Art uses DALL-E and Stable Diffusion models but optimizes them for commercial use. It allows marketing teams to quickly generate high-resolution, watermark-free images for blog posts, ads, and social media campaigns.",
+        "category": "Image",
+        "upvotes": 0,
+        "url": "https://www.jasper.ai/art",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/jasper.ai",
+        "ceo_team": [
+            "Dave Rogenmoser"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 61,
+        "name": "Perplexity Pages",
+        "description": "AI-powered tool to create structured, shareable research reports.",
+        "long_description": "A feature of Perplexity AI that allows users to turn a search query into a full, beautifully formatted article or report. It synthesizes web data, adds images, and organizes content into sections with full citations.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://www.perplexity.ai/pages",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/perplexity.ai",
+        "ceo_team": [
+            "Aravind Srinivas"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 62,
+        "name": "Figma AI (Config 2024)",
+        "description": "AI design tools integrated into Figma for prototyping and workflows.",
+        "long_description": "Figma's AI tools help designers generate UI layouts, organize layers, and automate repetitive tasks. Features like 'Make Design' allow users to generate initial UI drafts from text prompts directly within the Figma canvas.",
+        "category": "Design",
+        "upvotes": 0,
+        "url": "https://www.figma.com/ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/figma.com",
+        "ceo_team": [
+            "Dylan Field"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 63,
+        "name": "Elicit",
+        "description": "AI research assistant that automates literature reviews.",
+        "long_description": "Elicit uses language models to help researchers find relevant papers without perfect keyword matches, summarize takeaways from papers, and extract data from PDFs into structured tables.",
+        "category": "Education",
+        "upvotes": 0,
+        "url": "https://elicit.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/elicit.com",
+        "ceo_team": [
+            "Andreas Stuhlmüller"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 64,
+        "name": "Viggle AI",
+        "description": "AI video tool for character consistency and movement transfer.",
+        "long_description": "Viggle allows users to take a static image of a character and apply motion from a video to it. It's widely used for creating viral 'dance' memes and consistent character animations in AI video production.",
+        "category": "Video",
+        "upvotes": 0,
+        "url": "https://viggle.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/viggle.ai",
+        "ceo_team": [
+            "Hang Chu"
+        ],
+        "pricing": "Free",
+        "reviews": []
+    },
+    {
+        "id": 65,
+        "name": "Pi",
+        "description": "Inflection AI's personal, highly empathetic chatbot.",
+        "long_description": "Pi (Personal Intelligence) is designed to be a supportive and conversational companion. It focuses on high-EQ interactions, making it ideal for brainstorming, venting, or having long, nuanced conversations rather than just technical tasks.",
+        "category": "Chatbot",
+        "upvotes": 0,
+        "url": "https://pi.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/inflection.ai",
+        "ceo_team": [
+            "Sean White"
+        ],
+        "pricing": "Free",
+        "reviews": []
+    },
+    {
+        "id": 66,
+        "name": "Read.ai",
+        "description": "AI for automated meeting summaries and scheduling efficiency.",
+        "long_description": "Read.ai joins your meetings to provide transcription, but more importantly, it measures audience engagement and sentiment. It generates 'playback' highlights so people can skip meetings and catch up in minutes.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://www.read.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/read.ai",
+        "ceo_team": [
+            "David Shim"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 67,
+        "name": "Harvey AI",
+        "description": "AI platform built specifically for elite law firms.",
+        "long_description": "Harvey is a legal-specific AI built on top of OpenAI models. It assists lawyers with contract analysis, due diligence, litigation, and regulatory compliance, ensuring higher accuracy for legal professional workflows.",
+        "category": "Professional",
+        "upvotes": 0,
+        "url": "https://harvey.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/harvey.ai",
+        "ceo_team": [
+            "Winston Weinberg",
+            "Gabriel Pereyra"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 68,
+        "name": "Ideogram",
+        "description": "AI image generator known for exceptional text rendering.",
+        "long_description": "Ideogram is a text-to-image generator that excels where others struggle: typography. It can accurately render complex text, signs, and labels within an image, making it a favorite for logo and poster designers.",
+        "category": "Image",
+        "upvotes": 0,
+        "url": "https://ideogram.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/ideogram.ai",
+        "ceo_team": [
+            "Mohammad Norouzi"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 69,
+        "name": "Amazon Q",
+        "description": "AWS's generative AI-powered assistant for businesses.",
+        "long_description": "Amazon Q is a work assistant that can be tailored to a company's business. It helps employees solve problems, generate content, and take actions using the data and expertise found in their company's systems.",
+        "category": "Automation",
+        "upvotes": 0,
+        "url": "https://aws.amazon.com/q/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/amazon.com",
+        "ceo_team": [
+            "Andy Jassy"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 70,
+        "name": "Mubert",
+        "description": "AI-generated royalty-free music for streamers and creators.",
+        "long_description": "Mubert provides an endless stream of AI-generated music tailored to a specific mood or activity. It is widely used by YouTubers and streamers to get high-quality background music that won't trigger copyright strikes.",
+        "category": "Audio",
+        "upvotes": 0,
+        "url": "https://mubert.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/mubert.com",
+        "ceo_team": [
+            "Alexey Kochetkov"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 71,
+        "name": "Gamma AI (Websites)",
+        "description": "Generate full landing pages and websites from a text prompt.",
+        "long_description": "An expansion of the Gamma App, this tool allows users to describe a business or project and receive a multi-section, responsive website layout with copy and images in under a minute.",
+        "category": "Design",
+        "upvotes": 0,
+        "url": "https://gamma.app/websites",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/gamma.app",
+        "ceo_team": [
+            "Gamma Team"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 72,
+        "name": "CapCut (AI Features)",
+        "description": "Mobile and desktop video editor with AI auto-captions and effects.",
+        "long_description": "Owned by ByteDance, CapCut has integrated several AI features like 'Auto-Cut', 'AI Script-to-Video', and 'Background Removal', making it the leading tool for TikTok and Reel content creators.",
+        "category": "Video",
+        "upvotes": 0,
+        "url": "https://www.capcut.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/capcut.com",
+        "ceo_team": [
+            "ByteDance Team"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 73,
+        "name": "Search Labs (SGE)",
+        "description": "Google's AI-powered Search Generative Experience.",
+        "long_description": "SGE brings generative AI directly into Google Search results. It provides an AI-written overview of a topic with links to further reading, effectively changing the way users find information online.",
+        "category": "Search",
+        "upvotes": 0,
+        "url": "https://labs.google/search/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/google.com",
+        "ceo_team": [
+            "Sundar Pichai"
+        ],
+        "pricing": "Free",
+        "reviews": []
+    },
+    {
+        "id": 74,
+        "name": "Spline AI",
+        "description": "Generate and edit 3D objects and scenes using text.",
+        "long_description": "Spline AI allows users to create 3D assets by describing them. It can generate objects, apply textures, and even set up lighting, making 3D design accessible to those without traditional modeling skills.",
+        "category": "3D",
+        "upvotes": 0,
+        "url": "https://spline.design/ai",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/spline.design",
+        "ceo_team": [
+            "Alejandro León"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 75,
+        "name": "Tabnine",
+        "description": "Private and secure AI code completion for enterprise.",
+        "long_description": "Tabnine is one of the original AI coding assistants. It focuses on privacy, allowing companies to train models on their own codebase without leaking data, providing highly relevant autocomplete suggestions.",
+        "category": "Code",
+        "upvotes": 0,
+        "url": "https://www.tabnine.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/tabnine.com",
+        "ceo_team": [
+            "Dror Weiss"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 76,
+        "name": "NotebookLM",
+        "description": "Google's AI-powered note-taking and research assistant.",
+        "long_description": "NotebookLM is a personalized AI research assistant that uses your own documents as its primary source of knowledge. It can summarize complex materials, answer specific questions about your notes, and even generate 'Audio Overviews'—podcast-style discussions between two AI hosts about your content.",
+        "category": "Education",
+        "upvotes": 0,
+        "url": "https://notebooklm.google.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/google.com",
+        "ceo_team": [
+            "Steven Johnson (Editorial Director)",
+            "Raiza Martin"
+        ],
+        "pricing": "Free",
+        "reviews": []
+    },
+    {
+        "id": 77,
+        "name": "Lindy",
+        "description": "AI personal assistant that can handle entire workflows and tasks.",
+        "long_description": "Lindy is an AI employee capable of handling end-to-end tasks like triaging emails, scheduling meetings, and managing customer support. It connects to your existing apps and learns your specific workflows to act as a truly autonomous digital assistant.",
+        "category": "Automation",
+        "upvotes": 0,
+        "url": "https://www.lindy.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/lindy.ai",
+        "ceo_team": [
+            "Flo Crivello"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 78,
+        "name": "Lovable",
+        "description": "AI-powered full-stack application builder from text prompts.",
+        "long_description": "Lovable (formerly GPT Engineer) allows users to build, deploy, and iterate on full-stack web applications just by describing them. It handles frontend, backend, and database integration, making it a leader in the 'vibe coding' movement of 2026.",
+        "category": "Code",
+        "upvotes": 0,
+        "url": "https://lovable.dev/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/lovable.dev",
+        "ceo_team": [
+            "Anton Osika"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 79,
+        "name": "Glean",
+        "description": "AI-powered search and knowledge management for enterprises.",
+        "long_description": "Glean searches across all of a company's internal tools—like Slack, Drive, Jira, and GitHub—to provide instant, cited answers to employee questions. It acts as a central 'brain' for large organizations to find internal information quickly.",
+        "category": "Search",
+        "upvotes": 0,
+        "url": "https://www.glean.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/glean.com",
+        "ceo_team": [
+            "Arvind Jain"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 80,
+        "name": "Fathom",
+        "description": "AI meeting recorder that highlights and syncs key moments.",
+        "long_description": "Fathom is a free Zoom, Meet, and Teams app that records, transcribes, and highlights the important parts of your meetings. It automatically syncs summaries and action items into your CRM or Slack, saving hours of manual note-taking.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://fathom.video/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/fathom.video",
+        "ceo_team": [
+            "Richard White"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 81,
+        "name": "v0 by Vercel",
+        "description": "Generative UI system to build web interfaces with AI.",
+        "long_description": "v0 allows developers to generate copy-and-paste friendly React code (using Tailwind CSS and Shadcn UI) based on text prompts. It is designed to bridge the gap between design and development by instantly creating usable UI components.",
+        "category": "Design",
+        "upvotes": 0,
+        "url": "https://v0.dev/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/vercel.com",
+        "ceo_team": [
+            "Guillermo Rauch (Vercel)"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 82,
+        "name": "Cognition (Devin)",
+        "description": "The world’s first fully autonomous AI software engineer.",
+        "long_description": "Devin is an autonomous AI agent capable of planning and executing complex engineering tasks. It can learn new technologies, build and deploy apps from start to finish, and even fix bugs in open-source repositories independently.",
+        "category": "Code",
+        "upvotes": 0,
+        "url": "https://www.cognition.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/cognition.ai",
+        "ceo_team": [
+            "Scott Wu"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 83,
+        "name": "Intercom (Fin AI)",
+        "description": "AI customer service bot that provides human-like support.",
+        "long_description": "Fin is Intercom’s latest AI agent, designed to resolve customer issues instantly using your support articles. It reduces support volume by providing accurate, cited answers in a conversational format across chat and email.",
+        "category": "Automation",
+        "upvotes": 0,
+        "url": "https://www.intercom.com/fin",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/intercom.com",
+        "ceo_team": [
+            "Eoghan McCabe"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 84,
+        "name": "Kittl AI",
+        "description": "AI-powered graphic design platform for branding and merch.",
+        "long_description": "Kittl integrates advanced generative AI features into a powerful vector design tool. It allows users to generate complex illustrations, logos, and textures that are fully editable, specifically optimized for merchandise and print-on-demand.",
+        "category": "Design",
+        "upvotes": 0,
+        "url": "https://www.kittl.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/kittl.com",
+        "ceo_team": [
+            "Nicolas Heymann"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 85,
+        "name": "Higgsfield",
+        "description": "Mobile-first AI video generation for social media creators.",
+        "long_description": "Higgsfield is a video-to-video and text-to-video platform designed specifically for the vertical video era. It focuses on highly realistic human movement and character consistency, making it a top choice for TikTok and Instagram creators.",
+        "category": "Video",
+        "upvotes": 0,
+        "url": "https://higgsfield.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/higgsfield.ai",
+        "ceo_team": [
+            "Alex Gorlichev"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 86,
+        "name": "Reclaim.ai",
+        "description": "AI calendar assistant that optimizes your daily schedule.",
+        "long_description": "Reclaim uses AI to automatically find the best time for your meetings, tasks, habits, and breaks. It balances your workload by moving flexible tasks around and protecting your focus time based on your priorities.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://reclaim.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/reclaim.ai",
+        "ceo_team": [
+            "Patrick Lightbody"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 87,
+        "name": "Shortwave",
+        "description": "The smartest AI email client built on top of Gmail.",
+        "long_description": "Shortwave uses AI to transform your messy inbox into a organized workspace. It summarizes long threads, drafts high-quality replies in your voice, and uses an AI assistant to search your entire email history to answer factual questions.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://www.shortwave.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/shortwave.com",
+        "ceo_team": [
+            "Andrew Lynch"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 88,
+        "name": "Bolt.new",
+        "description": "Full-stack web development platform powered by AI agents.",
+        "long_description": "Bolt.new allows you to prompt, build, and deploy full-stack web applications directly in your browser. It leverages a 'browser-based IDE' where an AI agent writes the code and sets up the environment for you in seconds.",
+        "category": "Code",
+        "upvotes": 0,
+        "url": "https://bolt.new/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/stackblitz.com",
+        "ceo_team": [
+            "Eric Simons (StackBlitz)"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 89,
+        "name": "Vapi AI",
+        "description": "Build real-time AI voice agents for phone calls and apps.",
+        "long_description": "Vapi is a developer platform for building low-latency, conversational AI voice bots. It is widely used for automating customer phone support, scheduling appointments, and creating voice-first interactive experiences.",
+        "category": "Audio",
+        "upvotes": 0,
+        "url": "https://vapi.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/vapi.ai",
+        "ceo_team": [
+            "Jordan Gonen"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 90,
+        "name": "LTX Studio",
+        "description": "Holistic AI video production platform for storyboarding and films.",
+        "long_description": "LTX Studio offers a comprehensive creative workspace for professional video creators. It features frame-by-frame control, character consistency across scenes, and automated storyboarding, making it a 'command center' for AI-led filmmaking.",
+        "category": "Video",
+        "upvotes": 0,
+        "url": "https://ltx.studio/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/ltx.studio",
+        "ceo_team": [
+            "Gil Perry (Lightricks)"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 91,
+        "name": "Obviously AI",
+        "description": "No-code platform to build and deploy machine learning models.",
+        "long_description": "Obviously AI allows business users to run predictive analytics without writing code. You can upload a CSV, select a column to predict, and the AI builds a model to forecast sales, churn, or lead conversion in minutes.",
+        "category": "Automation",
+        "upvotes": 0,
+        "url": "https://www.obviously.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/obviously.ai",
+        "ceo_team": [
+            "Nirman Dave"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 92,
+        "name": "Flow (Google DeepMind)",
+        "description": "Google's advanced creative AI tool for video storytelling.",
+        "long_description": "Flow is a specialized creative tool from Google DeepMind that utilizes the Veo model to help users generate cinematic video sequences. It allows for detailed directorial control over camera angles and character actions via text.",
+        "category": "Video",
+        "upvotes": 0,
+        "url": "https://labs.google/fx/tools/flow",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/google.com",
+        "ceo_team": [
+            "Demis Hassabis"
+        ],
+        "pricing": "Free",
+        "reviews": []
+    },
+    {
+        "id": 93,
+        "name": "Rosebud AI",
+        "description": "AI-powered game development platform for 3D worlds.",
+        "long_description": "Rosebud AI allows users to 'vibe code' entire 3D games from text descriptions. It generates assets, scripts character behaviors, and builds environments, lowering the barrier to entry for game development significantly.",
+        "category": "3D",
+        "upvotes": 0,
+        "url": "https://www.rosebud.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/rosebud.ai",
+        "ceo_team": [
+            "Lisha Li"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 94,
+        "name": "Abnormal Security",
+        "description": "AI-native email security platform for enterprise defense.",
+        "long_description": "Abnormal Security uses behavioral AI to stop modern email attacks like Business Email Compromise (BEC). It builds a 'human behavior' profile for every employee to detect and block anomalies that traditional filters miss.",
+        "category": "Professional",
+        "upvotes": 0,
+        "url": "https://abnormalsecurity.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/abnormalsecurity.com",
+        "ceo_team": [
+            "Evan Reiser"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 95,
+        "name": "NoteGPT",
+        "description": "AI assistant for high-speed note-taking and video summarization.",
+        "long_description": "NoteGPT is specifically designed to help students and professionals digest long-form content. It can summarize hours of YouTube videos, long PDFs, or recorded lectures into structured study notes and mind maps instantly.",
+        "category": "Education",
+        "upvotes": 0,
+        "url": "https://notegpt.io/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/notegpt.io",
+        "ceo_team": [
+            "Hongyuan Cao"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 96,
+        "name": "Airtable AI",
+        "description": "Native AI features to automate data workflows in Airtable.",
+        "long_description": "Airtable AI allows teams to summarize content, categorize data, and generate creative copy directly within their existing databases. It enables businesses to build complex, AI-powered applications on top of their structured data.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://www.airtable.com/platform/ai",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/airtable.com",
+        "ceo_team": [
+            "Howie Liu"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 97,
+        "name": "Ambience Healthcare",
+        "description": "The operating system for AI in clinical healthcare.",
+        "long_description": "Ambience provides an 'AI medical scribe' that listens to patient visits and automatically generates high-quality clinical documentation. It helps doctors reduce burnout by automating the charting process and administrative tasks.",
+        "category": "Professional",
+        "upvotes": 0,
+        "url": "https://www.ambiencehealthcare.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/ambiencehealthcare.com",
+        "ceo_team": [
+            "Mike Juncadella",
+            "Nikhil Buduma"
+        ],
+        "pricing": "Paid",
+        "reviews": []
+    },
+    {
+        "id": 98,
+        "name": "Fireflies.ai",
+        "description": "AI voice assistant that transcribes and analyzes voice conversations.",
+        "long_description": "Fireflies is a leading meeting assistant that not only transcribes calls but also allows users to search through transcripts for specific topics, track speaker sentiment, and generate custom summaries for any business meeting.",
+        "category": "Productivity",
+        "upvotes": 0,
+        "url": "https://fireflies.ai/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/fireflies.ai",
+        "ceo_team": [
+            "Krish Ramineni"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 99,
+        "name": "Make (AI Agents)",
+        "description": "Visual automation platform with native AI agent support.",
+        "long_description": "Make (formerly Integromat) has evolved to include native AI building blocks. Users can now visually build complex automations that include LLM reasoning steps, allowing for 'smart' workflows that can process and decide on data as it moves between apps.",
+        "category": "Automation",
+        "upvotes": 0,
+        "url": "https://www.make.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/make.com",
+        "ceo_team": [
+            "Petr Soukup"
+        ],
+        "pricing": "Freemium",
+        "reviews": []
+    },
+    {
+        "id": 100,
+        "name": "Thinking Machines",
+        "description": "Next-generation research lab building advanced AGI models.",
+        "long_description": "Founded by Mira Murati, Thinking Machines is a 2026 breakout lab focused on creating high-reasoning, safe AI models. Their platform is being built to handle the world's most complex scientific and engineering problems using advanced neural architectures.",
+        "category": "Platform",
+        "upvotes": 0,
+        "url": "https://www.thinkingmachines.com/",
+        "voted_by": [],
+        "logo_url": "https://logo.clearbit.com/thinkingmachines.com",
+        "ceo_team": [
+            "Mira Murati"
+        ],
+        "pricing": "Paid",
+        "reviews": []
     }
 ]
