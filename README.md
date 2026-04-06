@@ -49,6 +49,8 @@ https://github.com/user-attachments/assets/aa89b591-322f-4639-9fcc-26f1b89c5dbf
 * **Tool Submission Portal:** A dedicated UI for users to submit new AI tools to the database.
 * **Search & Filter:** Easily query the database to find specific AI tools by name or category.
 * **Newsletter Integration:** Built-in subscription UI to capture user emails for weekly updates.
+* User Authentication & Profiles: Allow users to create accounts, log in, and manage their profiles. This enables personalized experiences like tracking submitted tools and voting history.
+* Trending & Analytics Dashboard: Display real-time insights such as most upvoted tools, fastest-growing AI apps, and category-wise trends to enhance discovery and engagement.
 
 ---
 
