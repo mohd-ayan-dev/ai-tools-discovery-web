@@ -77,7 +77,7 @@ To run this platform on your own machine, ensure you have Python installed.
 
 **1. Clone the repository**
 ~~~bash
-git clone https://github.com/mohd-ayan-dev/ai-tools-discovery-web.git
+git clone https://github.com/mohdayandev/ai-tools-discovery-web.git
 cd ai-tools-discovery-web
 ~~~
 
